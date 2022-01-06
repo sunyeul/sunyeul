@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+## Overall stats :chart_with_upwards_trend:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunyeul&theme=tokyonight&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeul&theme=tokyonight&hide=jupyter%20notebook" />
+</a>
+
 <!--
 **sunyeul/sunyeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeul&show_icons=true&theme=tokyonight)
