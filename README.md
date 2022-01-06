@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Junhyeong 👋
 
 - :rocket: I’m currently working as a data scientist in Tokyo.
 - 🌱 I’m currently interested in machine learning, Bayesian statistics and MLOps.
