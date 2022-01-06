@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+- :rocket: I’m currently working as a data scientist in Tokyo.
+- 🌱 I’m currently interested in machine learning, Bayesian statistics and MLOps.
+
+## Get in touch :coffee:
+- Linkedin - [Junhyeong Kim](https://www.linkedin.com/in/sunyeul/)
 
 ## Overall stats :chart_with_upwards_trend:
 
