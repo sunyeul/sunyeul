@@ -1,7 +1,30 @@
 ## Hi there, I'm Junhyeong 👋
 
-- :rocket: I’m currently working as a data scientist in Tokyo.
-- 🌱 I’m currently interested in machine learning, Bayesian statistics and MLOps.
+### 🌟 Career
+
+- 🖥️ Data Scientist (2020.04 - Present)
+
+### 💼 Work Experience
+
+- 📈 Developed demand forecast analyzing product life cycle
+- 🧮 Developed inventory management algorithm based on demand forecast
+- 📊 Campaign effectiveness verification
+- 🧠 Campaign design and effectiveness verification using machine learning models
+- 🛠️ Supported system construction
+- 🧪 Supported testing tasks
+
+### 🛠️ Skill & Tools
+
+- 🐍 Programming Language: Python, SQL
+- 🤖 Machine Learning / Statistical Models / Deep Learning / Generative AI
+- 📊 Visualization: Python Library, BI tools like Tableau
+
+### 🎯 Additional Activities
+
+- 🏆 Participating in data analysis competition (Kaggle, etc.)
+- 💻 Participation in algorithm problem-solving study group
+- ✍️ Writing technical blogs
+- 🎙️ Participating in technical podcast recordings
 
 ## Get in touch :coffee:
 - Linkedin - [Junhyeong Kim](https://www.linkedin.com/in/sunyeul/)
